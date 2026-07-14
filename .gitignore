@@ -7,3 +7,6 @@ build
 
 # Ignore parsed CSS files
 src/*.css
+
+node_modules
+package*.json

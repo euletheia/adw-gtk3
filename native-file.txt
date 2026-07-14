@@ -1,0 +1,2 @@
+[binaries]
+sass = '@GLOBAL_SOURCE_ROOT@/node_modules/.bin/sass'
